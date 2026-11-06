@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Key Features in v2.1.1
+## ✨ Key Features in v2.1.2
 
 - **🌐 Multi-Social Platform Support:** Paste links from YouTube (Videos, Shorts, Playlists), TikTok/Douyin, Facebook/Reels, Instagram, X/Twitter, Threads, SoundCloud, Bilibili, Vimeo, Reddit, Pinterest, Twitch, and more — with automatic platform detection and vertical (`9:16`) / horizontal (`16:9`) resolution recognition up to 4K (`2160p`).
 - **⚡ Fast Stream Copy (Instant Original Quality):** Automatically skips unnecessary `ffmpeg` re-encoding when downloading full videos in compatible H.264/MP4 streams, preserving 100% original bitrate and completing in seconds.

@@ -4,8 +4,11 @@
 
 ---
 
-## ✨ Key Features in v2.1.2
+## ✨ Key Features in v2.1.3
 
+- **🎨 AnimeClips Studio UI Overhaul:** Re-engineered dark interface inspired by `animeclips.online` with Matte Carbon/Obsidian surfaces (`#08080b` / `#0d0d12`), tactile SVG film-grain noise texture (`feTurbulence`), and top ambient cinema glow.
+- **📐 100% Full-Height 2-Stage Studio Layout:** Completely eliminated empty bottom gap space with a sleek Left Vertical Studio Sidebar (app logo, vertical navigation capsule, bottom-anchored batch & settings) paired with a responsive 2-stage workspace (Left: Cinema Video Monitor + Trim & Download Deck; Right: Scene Chapters List + Live Recent Downloads Queue).
+- **🔤 Studio Typography Suite:** Integrated Google Fonts **Space Grotesk** (geometric display titles, navigation & buttons), **Plus Jakarta Sans** (clean modern UI body), and **JetBrains Mono** (technical badges, timecodes, resolution & file size tags).
 - **🌐 Multi-Social Platform Support:** Paste links from YouTube (Videos, Shorts, Playlists), TikTok/Douyin, Facebook/Reels, Instagram, X/Twitter, Threads, SoundCloud, Bilibili, Vimeo, Reddit, Pinterest, Twitch, and more — with automatic platform detection and vertical (`9:16`) / horizontal (`16:9`) resolution recognition up to 4K (`2160p`).
 - **⚡ Fast Stream Copy (Instant Original Quality):** Automatically skips unnecessary `ffmpeg` re-encoding when downloading full videos in compatible H.264/MP4 streams, preserving 100% original bitrate and completing in seconds.
 - **📦 Batch & Playlist Downloader:** Queue multiple video/audio links or entire playlists at once with selective item picking.
@@ -13,7 +16,7 @@
 - **✂️ Smart Trimming & Chapters:** Precisely trim video/audio ranges before downloading or batch-download individual video **Chapters**.
 - **🎬 Quick Studio Editor:** Built-in timeline editor with instant trim, toggleable Watermark Logo (`V2`) and Background Music (`A2`) overlay tracks, audio mixing, and `MP4` / `MKV` / `MOV ProRes` / `MP3` export.
 - **📂 Upgraded Downloads Manager:** Real-time download speed (`MB/s`), `ETA`, file size, platform & quality badges, instant search, category filter pills, and in-app media preview.
-- **🎨 Clean Linear / macOS UI:** Crisp, flat Dark & Light themes with full **Vietnamese (`vi`)** and **English (`en`)** localization.
+- **🔴 Red-Only Destructive Actions:** Minimalist monochrome design preserving Apple Red strictly for Delete/Trash, Clear, and Error states. Full **Vietnamese (`vi`)** and **English (`en`)** localization.
 
 ---
 

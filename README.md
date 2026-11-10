@@ -4,8 +4,9 @@
 
 ---
 
-## ✨ Key Features in v2.1.3
+## ✨ Key Features in v2.1.4
 
+- **📌 Collapsible Studio Sidebar & UI Refinements:** Smooth 1-click collapsible left navigation dock (`196px` ↔ `58px` icon mode) with persistent state, compact in-card structured timecode pickers (`HH:MM:SS`) without overflow, and strict tab content isolation.
 - **🎨 AnimeClips Studio UI Overhaul:** Re-engineered dark interface inspired by `animeclips.online` with Matte Carbon/Obsidian surfaces (`#08080b` / `#0d0d12`), tactile SVG film-grain noise texture (`feTurbulence`), and top ambient cinema glow.
 - **📐 100% Full-Height 2-Stage Studio Layout:** Completely eliminated empty bottom gap space with a sleek Left Vertical Studio Sidebar (app logo, vertical navigation capsule, bottom-anchored batch & settings) paired with a responsive 2-stage workspace (Left: Cinema Video Monitor + Trim & Download Deck; Right: Scene Chapters List + Live Recent Downloads Queue).
 - **🔤 Studio Typography Suite:** Integrated Google Fonts **Space Grotesk** (geometric display titles, navigation & buttons), **Plus Jakarta Sans** (clean modern UI body), and **JetBrains Mono** (technical badges, timecodes, resolution & file size tags).

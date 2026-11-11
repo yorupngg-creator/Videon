@@ -4,10 +4,13 @@
 
 ---
 
-## ✨ Key Features in v2.1.4
+## ✨ Key Features in v3.0.0
 
-- **📌 Collapsible Studio Sidebar & UI Refinements:** Smooth 1-click collapsible left navigation dock (`196px` ↔ `58px` icon mode) with persistent state, compact in-card structured timecode pickers (`HH:MM:SS`) without overflow, and strict tab content isolation.
-- **🎨 AnimeClips Studio UI Overhaul:** Re-engineered dark interface inspired by `animeclips.online` with Matte Carbon/Obsidian surfaces (`#08080b` / `#0d0d12`), tactile SVG film-grain noise texture (`feTurbulence`), and top ambient cinema glow.
+- **🔥 Next-Gen Obsidian Studio UI:** Deep pitch-black obsidian canvas (`#060709` / `#080a0e`) accented with a vibrant pure studio orange theme (`#ff6a00`), eliminating multi-colored clutter while preserving Apple Red exclusively for destructive actions.
+- **⚡ Integrated Hero URL Command Deck:** Direct in-thumbnail URL paste bar with one-click clipboard paste, prominent orange quick download CTA, and generous vertical typography breathing room.
+- **🎞️ Continuous Precision Line Timeline:** Streamlined continuous progress scrubber track with draggable dual start/end time knobs, dynamic timecode brackets (`HH:MM:SS`), and repositioned "Select All" chapter action pill.
+- **🗂️ Dedicated Full-Width Sub-Tabs:** Clean separation between **Chapters & Trim** and **Recent Downloads**. Recent Downloads dynamically hides the Export panel to deliver a distraction-free, 100% full-width download history experience with responsive anti-overflow layout.
+- **🌐 100% Bilingual Localization:** Flawless English (`en`) and Vietnamese (`vi`) language coverage across all 188 UI keys with 0 mixed terms.
 - **📐 100% Full-Height 2-Stage Studio Layout:** Completely eliminated empty bottom gap space with a sleek Left Vertical Studio Sidebar (app logo, vertical navigation capsule, bottom-anchored batch & settings) paired with a responsive 2-stage workspace (Left: Cinema Video Monitor + Trim & Download Deck; Right: Scene Chapters List + Live Recent Downloads Queue).
 - **🔤 Studio Typography Suite:** Integrated Google Fonts **Space Grotesk** (geometric display titles, navigation & buttons), **Plus Jakarta Sans** (clean modern UI body), and **JetBrains Mono** (technical badges, timecodes, resolution & file size tags).
 - **🌐 Multi-Social Platform Support:** Paste links from YouTube (Videos, Shorts, Playlists), TikTok/Douyin, Facebook/Reels, Instagram, X/Twitter, Threads, SoundCloud, Bilibili, Vimeo, Reddit, Pinterest, Twitch, and more — with automatic platform detection and vertical (`9:16`) / horizontal (`16:9`) resolution recognition up to 4K (`2160p`).

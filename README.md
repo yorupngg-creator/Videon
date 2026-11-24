@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Key Features in v3.0.1
+## ✨ Key Features in v3.0.2
 
 - **🎯 Precision Carbon & Safety-Orange UI (`taste-skill`):** Clean 92%+ matte carbon neutral canvas (`#090a0c` / `#111317` / `#16191e`), hairline `1px` borders, unified corner radii (`12/10/8/6px`), natural sentence-case typography, tabular numerals (`tabular-nums`), and a single safety-orange accent (`#ff5518`) — with red (`#ef4444`) strictly reserved for delete/cancel/error actions.
 - **🔔 Live Active-Download Notifications:** Real-time active download counter badges at the top-right of **Recent Downloads** and **Downloads Manager**, plus live queue status pills and progress bars.

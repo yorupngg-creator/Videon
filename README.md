@@ -4,23 +4,15 @@
 
 ---
 
-## ✨ Key Features in v3.0.0
+## ✨ Key Features in v3.0.1
 
-- **🔥 Next-Gen Obsidian Studio UI:** Deep pitch-black obsidian canvas (`#060709` / `#080a0e`) accented with a vibrant pure studio orange theme (`#ff6a00`), eliminating multi-colored clutter while preserving Apple Red exclusively for destructive actions.
-- **⚡ Integrated Hero URL Command Deck:** Direct in-thumbnail URL paste bar with one-click clipboard paste, prominent orange quick download CTA, and generous vertical typography breathing room.
-- **🎞️ Continuous Precision Line Timeline:** Streamlined continuous progress scrubber track with draggable dual start/end time knobs, dynamic timecode brackets (`HH:MM:SS`), and repositioned "Select All" chapter action pill.
-- **🗂️ Dedicated Full-Width Sub-Tabs:** Clean separation between **Chapters & Trim** and **Recent Downloads**. Recent Downloads dynamically hides the Export panel to deliver a distraction-free, 100% full-width download history experience with responsive anti-overflow layout.
-- **🌐 100% Bilingual Localization:** Flawless English (`en`) and Vietnamese (`vi`) language coverage across all 188 UI keys with 0 mixed terms.
-- **📐 100% Full-Height 2-Stage Studio Layout:** Completely eliminated empty bottom gap space with a sleek Left Vertical Studio Sidebar (app logo, vertical navigation capsule, bottom-anchored batch & settings) paired with a responsive 2-stage workspace (Left: Cinema Video Monitor + Trim & Download Deck; Right: Scene Chapters List + Live Recent Downloads Queue).
-- **🔤 Studio Typography Suite:** Integrated Google Fonts **Space Grotesk** (geometric display titles, navigation & buttons), **Plus Jakarta Sans** (clean modern UI body), and **JetBrains Mono** (technical badges, timecodes, resolution & file size tags).
-- **🌐 Multi-Social Platform Support:** Paste links from YouTube (Videos, Shorts, Playlists), TikTok/Douyin, Facebook/Reels, Instagram, X/Twitter, Threads, SoundCloud, Bilibili, Vimeo, Reddit, Pinterest, Twitch, and more — with automatic platform detection and vertical (`9:16`) / horizontal (`16:9`) resolution recognition up to 4K (`2160p`).
-- **⚡ Fast Stream Copy (Instant Original Quality):** Automatically skips unnecessary `ffmpeg` re-encoding when downloading full videos in compatible H.264/MP4 streams, preserving 100% original bitrate and completing in seconds.
-- **📦 Batch & Playlist Downloader:** Queue multiple video/audio links or entire playlists at once with selective item picking.
-- **🔐 Cookie & Anti-Bot Bypass:** Built-in support for browser cookies (`Chrome`, `Edge`, `Brave`, `Firefox`, `Opera`, `Safari`) or custom `cookies.txt` files to download age-restricted, member-only, or login-protected social media posts, plus 1-click `yt-dlp` engine auto-update.
-- **✂️ Smart Trimming & Chapters:** Precisely trim video/audio ranges before downloading or batch-download individual video **Chapters**.
-- **🎬 Quick Studio Editor:** Built-in timeline editor with instant trim, toggleable Watermark Logo (`V2`) and Background Music (`A2`) overlay tracks, audio mixing, and `MP4` / `MKV` / `MOV ProRes` / `MP3` export.
-- **📂 Upgraded Downloads Manager:** Real-time download speed (`MB/s`), `ETA`, file size, platform & quality badges, instant search, category filter pills, and in-app media preview.
-- **🔴 Red-Only Destructive Actions:** Minimalist monochrome design preserving Apple Red strictly for Delete/Trash, Clear, and Error states. Full **Vietnamese (`vi`)** and **English (`en`)** localization.
+- **🎯 Precision Carbon & Safety-Orange UI (`taste-skill`):** Clean 92%+ matte carbon neutral canvas (`#090a0c` / `#111317` / `#16191e`), hairline `1px` borders, unified corner radii (`12/10/8/6px`), natural sentence-case typography, tabular numerals (`tabular-nums`), and a single safety-orange accent (`#ff5518`) — with red (`#ef4444`) strictly reserved for delete/cancel/error actions.
+- **🔔 Live Active-Download Notifications:** Real-time active download counter badges at the top-right of **Recent Downloads** and **Downloads Manager**, plus live queue status pills and progress bars.
+- **📦 Instant Batch & Playlist Recognition:** Paste a single link, multi-line/space/comma link lists, bare URLs, or full YouTube/Social Playlists for automatic background extraction (with YouTube playlist normalization, Mix loop protection, cookie-lock fallback, and collision-free atomic job IDs).
+- **🎬 Frame-Accurate Multi-Hour Quick Editor:** Adaptive NLE timeline ruler (`1s` up to `12h` major intervals) that prevents label crowding on 3h–12h+ videos, sticky track headers with up to `3200%` horizontal zoom, container `start_offset` & fractional duration sync, zero-offset range handles, and `-ss` pre-input + `-avoid_negative_ts make_zero` frame-accurate cuts.
+- **⚡ Fast Stream Copy (Instant Original Quality):** Automatically skips unnecessary `ffmpeg` re-encoding when downloading full videos in compatible H.264/MP4 streams with `+faststart` indexing.
+- **🌐 Multi-Social Platform Support & 100% Bilingual UI:** Supports YouTube, TikTok/Douyin, Facebook/Reels, Instagram, X/Twitter, Threads, SoundCloud, Bilibili, Vimeo, Reddit, Twitch, and 1,000+ sites with complete **Vietnamese (`vi`)** and **English (`en`)** localization.
+- **🔐 Cookie & Anti-Bot Bypass:** Built-in support for browser cookies (`Chrome`, `Edge`, `Brave`, `Firefox`, `Opera`, `Safari`) or custom `cookies.txt` files plus 1-click `yt-dlp` engine auto-update.
 
 ---
 
